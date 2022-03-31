@@ -11,7 +11,8 @@
 
 ## Description
 
-Generating data points through classes instead of obtaining from file. Includes visualizing dice rolls as well as random walks.
+Generating data points through classes instead of obtaining from file. 
+Includes visualizing dice rolls as well as random walks.
 
 #### Technologies
 
